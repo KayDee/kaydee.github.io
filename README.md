@@ -1,3 +1,3 @@
-# kayd33 personal site
+# kaydee personal site
 
-Link : [https://kayd33.github.io](https://kayd33.github.io)
+Link : [https://kaydee.github.io](https://kaydee.github.io)
